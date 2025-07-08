@@ -1,5 +1,5 @@
 ## Hi there 👋
-![Status](https://github.com/MarcelloAM/MarcelloAM/blob/main/profile-3d-contrib/profilea-night-green.svg)
+![Status](https://github.com/MarcelloAM/MarcelloAM/blob/main/profile-3d-contrib/profile-gitblock.svg)
 <!--
 **MarcelloAM/MarcelloAM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
